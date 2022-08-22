@@ -1,15 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio
 
-> Description the project.
+> Reviweing a personal project with Microverse
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML & CSS
+
+
+## Authors
+
+👤 **Duncan Ngugi**
+
+- GitHub: [@DNgugi](https://github.com/DNgugi)
+
 
 ## Live Demo (if available)
 
